@@ -1,4 +1,4 @@
-This project was created as a part of Algorithms cours.
+This project was created as a part of Algorithms course.
 
 The goal of the project is to implemenet a number of solutions to the problem of minimal paths from  a single origin to a single destination.
 
